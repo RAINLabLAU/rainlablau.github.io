@@ -454,8 +454,18 @@ section {
 }
 
 .pi-section .member-card {
-  max-width: 400px;
+  max-width: 750px;
   width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.pi-section .member-image {
+  width: 260px;
+  min-width: 260px;
+  height: auto;
+  object-fit: cover;
+  object-position: top center;
 }
 
 /* All other members grid */
@@ -515,9 +525,37 @@ section {
   flex-wrap: wrap;
 }
 
+.member-bio.truncated {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.bio-toggle {
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: var(--space-md);
+}
+
+.bio-toggle:hover {
+  text-decoration: underline;
+}
+
 .member-links .btn-link {
-  font-size: var(--font-size-xs);
-  padding: var(--space-xs) var(--space-md);
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 18px;
+  flex-shrink: 0;
 }
 
 /* ============= Publications Section ============= */

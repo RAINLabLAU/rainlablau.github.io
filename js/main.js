@@ -155,11 +155,12 @@ function renderMemberCard(member) {
     .map(([key, url]) => {
       const label = key.charAt(0).toUpperCase() + key.slice(1);
       const icon = getLinkIcon(key);
-      return `<a href="${url}" class="btn-link" target="_blank" rel="noopener">${icon} ${label}</a>`;
+      return `<a href="${url}" class="btn-link" title="${label}" target="_blank" rel="noopener">${icon}</a>`;
     })
     .join('');
 
   const photoSrc = member.photo || 'images/team/placeholder.jpg';
+  const bioId = `bio-${member.name.replace(/\s+/g, '-').toLowerCase()}`;
 
   return `
     <div class="member-card fade-in">
@@ -167,7 +168,8 @@ function renderMemberCard(member) {
       <div class="member-info">
         <h4 class="member-name">${member.name}</h4>
         <p class="member-role">${member.role}</p>
-        <p class="member-bio">${member.bio}</p>
+        <p class="member-bio truncated" id="${bioId}">${member.bio}</p>
+        <button class="bio-toggle" onclick="toggleBio('${bioId}', this)">Read more</button>
         ${linksHtml ? `<div class="member-links">${linksHtml}</div>` : ''}
       </div>
     </div>
@@ -184,6 +186,12 @@ function getLinkIcon(type) {
     'email': '📧'
   };
   return icons[type.toLowerCase()] || '🔗';
+}
+
+function toggleBio(id, btn) {
+  const bio = document.getElementById(id);
+  bio.classList.toggle('truncated');
+  btn.textContent = bio.classList.contains('truncated') ? 'Read more' : 'Show less';
 }
 
 // ============= Load and Render Publications =============
@@ -368,6 +376,13 @@ function renderNewsItem(item) {
 
 // ============= Load and Render Alumni =============
 
+function hideAlumniSection() {
+  document.getElementById('alumni').style.display = 'none';
+  document.querySelectorAll('a[href="#alumni"]').forEach(el => {
+    el.closest('li').style.display = 'none';
+  });
+}
+
 async function loadAlumni() {
   try {
     const response = await fetch('data/alumni.json');
@@ -375,11 +390,7 @@ async function loadAlumni() {
     renderAlumni(data.alumni);
   } catch (error) {
     console.error('Error loading alumni:', error);
-    document.getElementById('alumniContainer').innerHTML = `
-      <p style="text-align: center; color: var(--color-text-secondary);">
-        No alumni to display yet. Add alumni data to data/alumni.json.
-      </p>
-    `;
+    hideAlumniSection();
   }
 }
 
@@ -387,11 +398,7 @@ function renderAlumni(alumni) {
   const container = document.getElementById('alumniContainer');
 
   if (!alumni || alumni.length === 0) {
-    container.innerHTML = `
-      <p style="text-align: center; color: var(--color-text-secondary);">
-        No alumni to display yet. Add alumni data to data/alumni.json.
-      </p>
-    `;
+    hideAlumniSection();
     return;
   }
 

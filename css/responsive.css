@@ -238,6 +238,15 @@
     margin-bottom: var(--space-2xl);
   }
 
+  .pi-section .member-card {
+    flex-direction: column;
+  }
+
+  .pi-section .member-image {
+    width: 100%;
+    height: 280px;
+  }
+
   /* Members Grid */
   .members-grid {
     grid-template-columns: 1fr;
@@ -250,15 +259,6 @@
 
   .member-info {
     padding: var(--space-md);
-  }
-
-  .member-links {
-    flex-direction: column;
-  }
-
-  .member-links .btn-link {
-    width: 100%;
-    text-align: center;
   }
 
   /* Publications */
