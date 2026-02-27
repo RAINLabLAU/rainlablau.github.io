@@ -397,10 +397,12 @@ async function loadAlumni() {
 function renderAlumni(alumni) {
   const container = document.getElementById('alumniContainer');
 
-  if (!alumni || alumni.length === 0) {
+  const validAlumni = (alumni || []).filter(p => p.name);
+  if (validAlumni.length === 0) {
     hideAlumniSection();
     return;
   }
+  alumni = validAlumni;
 
   // Sort by end year (descending)
   alumni.sort((a, b) => b.endYear - a.endYear);
