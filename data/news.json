@@ -1,51 +1,9 @@
 {
   "news": [
     {
-      "date": "2024-09-15",
-      "headline": "Three Papers Accepted to NeurIPS 2024",
-      "description": "We are excited to announce that three of our papers have been accepted to NeurIPS 2024! The papers cover neural reasoning, commonsense understanding, and multi-hop question answering.",
-      "link": "https://neurips.cc/Conferences/2024"
-    },
-    {
-      "date": "2024-08-01",
-      "headline": "Welcome New Ph.D. Student",
-      "description": "We are thrilled to welcome Alice Johnson to the lab! Alice will be working on natural language understanding and reasoning.",
-      "link": ""
-    },
-    {
-      "date": "2024-07-20",
-      "headline": "Best Paper Award at ACL 2024",
-      "description": "Our paper 'Commonsense Reasoning with Large Language Models' received the Best Paper Award at ACL 2024. Congratulations to Bob and the entire team!",
-      "link": "https://2024.aclweb.org/"
-    },
-    {
-      "date": "2024-06-10",
-      "headline": "Lab Presents at NAACL 2024",
-      "description": "David presented our work on improving dialogue systems with long-term memory at NAACL 2024 in Mexico City. Great job, David!",
-      "link": ""
-    },
-    {
-      "date": "2024-05-15",
-      "headline": "New Collaboration with Industry Partner",
-      "description": "We are excited to announce a new research collaboration focused on developing more robust natural language understanding systems for real-world applications.",
-      "link": ""
-    },
-    {
-      "date": "2024-04-01",
-      "headline": "NSF Grant Awarded",
-      "description": "Our lab has been awarded a 3-year NSF grant to support our research on neural reasoning and commonsense understanding. This funding will enable us to expand our team and research initiatives.",
-      "link": ""
-    },
-    {
-      "date": "2024-03-10",
-      "headline": "Emma Wins Outstanding TA Award",
-      "description": "Congratulations to Emma Wilson for receiving the Outstanding Teaching Assistant Award from the Computer Science Department!",
-      "link": ""
-    },
-    {
-      "date": "2024-02-14",
-      "headline": "Workshop on Neural Reasoning Announced",
-      "description": "We are organizing a workshop on Neural Reasoning and Commonsense Understanding at EMNLP 2024. Call for papers coming soon!",
+      "date": "2026-02-27",
+      "headline": "Creation of RAIN Lab",
+      "description": "We are excited to announce the creation of the RAIN Lab (Reasoning and AI Lab) at the Lebanese American University.",
       "link": ""
     }
   ]
