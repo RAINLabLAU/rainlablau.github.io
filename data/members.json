@@ -11,6 +11,28 @@
         "scholar": "https://scholar.google.com/citations?user=WY5jzjYAAAAJ&hl=en",
         "email": "mailto:chadi.helwe@lau.edu.lb"
       }
+    },
+    {
+      "name": "Jason Greich",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/jason-greich.jpeg",
+      "bio": "Jason Greich is a Master's student in Data Science, holding a Bachelor's degree in Mathematics with a specialization in Data Science. His research interests lie in Natural Language Processing (NLP), with a current focus on large language models (LLMs). As part of the research team, he is contributing to the development of a bias detection library for LLMs, aimed at providing systematic evaluation tooling across a wide range of bias types and detection methodologies. He looks forward to expanding his research contributions and exploring new directions within NLP and AI as he continues to grow in the field.",
+      "links": {
+        "website": "https://www.linkedin.com/in/jason-greich",
+        "email": "mailto:jason.greich@lau.edu.lb"
+      }
+    },
+    {
+      "name": "Elissa El Haber",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/elissa-el-haber.jpg",
+      "bio": "Elissa El Haber is a Master's student in Data Science, holding a Bachelor's degree in Information Technology with an emphasis in Artificial Intelligence, with research interests in Natural Language Processing (NLP) and Artificial Intelligence. She previously worked on a research project involving EEG data analysis and is currently serving as a Research Assistant. As part of a research team, she contributes to the development of a library for detecting bias in large language models (LLMs), aimed at enabling systematic evaluation across different bias types and detection approaches.",
+      "links": {
+        "website": "https://www.linkedin.com/in/elissa-el-haber",
+        "email": "mailto:elissa.elhaber01@lau.edu.lb"
+      }
     }
   ]
 }
