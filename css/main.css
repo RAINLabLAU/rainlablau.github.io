@@ -474,6 +474,7 @@ section {
   grid-template-columns: repeat(auto-fill, minmax(260px, 280px));
   gap: var(--space-xl);
   justify-content: center;
+  justify-items: center;
 }
 
 .member-card {
@@ -491,7 +492,7 @@ section {
 
 .member-image {
   width: 100%;
-  height: 180px;
+  height: 220px;
   object-fit: cover;
 }
 
