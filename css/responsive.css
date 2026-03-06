@@ -249,8 +249,11 @@
 
   /* Members Grid */
   .members-grid {
-    grid-template-columns: 1fr;
     gap: var(--space-lg);
+  }
+
+  .members-grid .member-card {
+    width: 100%;
   }
 
   .member-image {

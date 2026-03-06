@@ -470,10 +470,15 @@ section {
 
 /* All other members grid */
 .members-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 280px));
+  display: flex;
+  flex-wrap: wrap;
   gap: var(--space-xl);
   justify-content: center;
+}
+
+.members-grid .member-card {
+  width: 280px;
+  flex-shrink: 0;
 }
 
 .member-card {
