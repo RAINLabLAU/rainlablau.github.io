@@ -471,8 +471,9 @@ section {
 /* All other members grid */
 .members-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(220px, 240px));
   gap: var(--space-xl);
+  justify-content: center;
 }
 
 .member-card {
