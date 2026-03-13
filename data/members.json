@@ -24,6 +24,17 @@
       }
     },
     {
+      "name": "Nancy Kalmiche",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/nancy-kalmiche.jpeg",
+      "bio": "Nancy Kalmiche is a Master's student in Data Science with a Bachelor's degree in Mathematics, specializing in Data Science. Her research interests focus on Artificial Intelligence (AI) and large language models (LLMs), and she is part of the research team developing a bias detection library designed to systematically evaluate different types of bias in LLMs using a range of detection methodologies.",
+      "links": {
+        "website": "https://www.linkedin.com/in/nancy-kalmiche-4bb40a2b1/",
+        "email": "mailto:nancy.kalmiche@lau.edu.lb"
+      }
+    },
+    {
       "name": "Elissa El Haber",
       "role": "Research Assistant",
       "category": "student",
