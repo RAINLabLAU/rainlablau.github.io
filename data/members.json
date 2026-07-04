@@ -44,6 +44,17 @@
         "website": "https://www.linkedin.com/in/elissa-el-haber",
         "email": "mailto:elissa.elhaber01@lau.edu.lb"
       }
+    },
+    {
+      "name": "Marc Otayek",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/marc-otayek.png",
+      "bio": "Marc Otayek is a recent graduate of the Lebanese American University, holding a Bachelor's degree in Computer Science. His research interests lie in Natural Language Processing (NLP), with a current focus on large language models (LLMs) and their reasoning capabilities. As part of the research team, he is contributing to the development of a benchmark for evaluating and analyzing the reasoning behavior of LLMs in Arabic, an area that remains largely underexplored relative to English-language NLP.",
+      "links": {
+        "website": "https://www.linkedin.com/in/marc-otayek-0a2324312/",
+        "email": "mailto:marc.otayek@lau.edu.lb"
+      }
     }
   ]
 }
