@@ -55,6 +55,17 @@
         "website": "https://www.linkedin.com/in/marc-otayek-0a2324312/",
         "email": "mailto:marc.otayek@lau.edu.lb"
       }
+    },
+    {
+      "name": "Maya Halabi",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/maya-halabi.jpeg",
+      "bio": "Maya Halabi is a Master's student in Computer Science, holding a Bachelor's degree in Computer Science. Her research interests include Artificial Intelligence (AI), Natural Language Processing (NLP), and large language models (LLMs). As part of the research team, she contributes to the development of a benchmark for fallacy detection in Arabic. She looks forward to expanding her research contributions and exploring new directions in NLP and AI as she continues to grow in the field.",
+      "links": {
+        "website": "https://www.linkedin.com/in/itsmayahalabi",
+        "email": "mailto:maya.halabi01@lau.edu"
+      }
     }
   ]
 }
