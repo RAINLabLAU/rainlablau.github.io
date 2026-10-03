@@ -66,6 +66,39 @@
         "website": "https://www.linkedin.com/in/itsmayahalabi",
         "email": "mailto:maya.halabi01@lau.edu"
       }
+    },
+    {
+      "name": "Selim Ellieh",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/selim-ellieh.jpeg",
+      "bio": "Selim Ellieh is a Master's student in Computer Science, holding a Bachelor's degree in Computer Science. His research interests lie in Natural Language Processing (NLP), with a current focus on large language models (LLMs). Coming from a software engineering background with hands-on industry experience, he brings strong development skills to the research team. He looks forward to expanding his research contributions and exploring new directions within NLP and AI as he continues to grow in the field.",
+      "links": {
+        "website": "https://selimellieh72.github.io/",
+        "email": "mailto:selim.elellieh@lau.edu"
+      }
+    },
+    {
+      "name": "Mia AlFakhry",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/mia-alfakhry.png",
+      "bio": "Mia AlFakhry is a Master's student in Data Science at the Lebanese American University, holding a Bachelor's degree in Bioinformatics with a minor in Data Analytics, from which she graduated with distinction. Her research interests include data science, machine learning, Natural Language Processing (NLP), and bioinformatics, with a focus on applying computational methods to real-world research problems. She is particularly interested in working with complex datasets, developing data-driven solutions, and exploring the applications of AI across different research domains.",
+      "links": {
+        "website": "https://www.linkedin.com/in/mia-fakhry-b77075334/",
+        "email": "mailto:mia.elfakhry@lau.edu"
+      }
+    },
+    {
+      "name": "Elias Neemtallah",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/elias-neemtallah.jpeg",
+      "bio": "Elias Neemtallah is a Master's student in Data Science, holding a Bachelor's degree in Computer Science. He has professional experience in Artificial Intelligence (AI), Machine Learning (ML), large language models (LLMs), and cloud-based AI technologies, including Microsoft Azure. His interests include AI, machine learning, data science, and the development of intelligent cloud-based solutions.",
+      "links": {
+        "website": "https://lb.linkedin.com/in/elias-neemtallah-240202248",
+        "email": "mailto:elias.neemtallah@lau.edu"
+      }
     }
   ]
 }
