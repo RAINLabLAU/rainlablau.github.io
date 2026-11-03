@@ -11,6 +11,18 @@
       "headline": "MANTIQ Project Awarded PIRF Funding",
       "description": "Our project “MANTIQ: Towards Robust Logical Reasoning in Arabic Large Language Models” has been awarded two years of funding (approximately $75,000) by the President’s Intramural Research Fund (PIRF) at the Lebanese American University. MANTIQ (منطق) means “logic” in Arabic. While Arabic LLMs have made great progress in language understanding, their ability to reason logically remains largely untested and underdeveloped, and this project aims to change that.",
       "link": ""
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "Two Papers Accepted at NeurIPS 2026",
+      "description": "Two papers from the lab have been accepted at NeurIPS 2026. “Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures” will appear as a poster in the Evaluations and Datasets Track, with the lab contributing the Lebanese dialect to the benchmark so that the Arabic we speak every day is represented in how language models are evaluated. “Tabular In-Context Learning for Amortized Species Distribution Modeling,” led by Peter Saba, has been accepted to the Tackling Climate Change with Machine Learning (TCCML) workshop.",
+      "link": ""
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "Romanized Arabic Across Dialects Presented at EMNLP",
+      "description": "“Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation,” a collaboration led by Amr Keleg, is being presented as a poster at EMNLP. The study surveyed 187 Arabic speakers across five dialects and found that Arabizi use is shifting, and often declining, yet still matters to many. The work also released two resources: VARabiziLex for spelling variation and VARabiziCues for sentence-level variation.",
+      "link": "https://lnkd.in/dAWuTq-g"
     }
   ]
 }
