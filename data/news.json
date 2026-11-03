@@ -5,6 +5,12 @@
       "headline": "Creation of RAIN Lab",
       "description": "We are excited to announce the creation of the RAIN Lab (Reasoning and AI Lab) at the Lebanese American University.",
       "link": ""
+    },
+    {
+      "date": "2026-08-01",
+      "headline": "MANTIQ Project Awarded PIRF Funding",
+      "description": "Our project “MANTIQ: Towards Robust Logical Reasoning in Arabic Large Language Models” has been awarded two years of funding (approximately $75,000) by the President’s Intramural Research Fund (PIRF) at the Lebanese American University. MANTIQ (منطق) means “logic” in Arabic. While Arabic LLMs have made great progress in language understanding, their ability to reason logically remains largely untested and underdeveloped, and this project aims to change that.",
+      "link": ""
     }
   ]
 }
