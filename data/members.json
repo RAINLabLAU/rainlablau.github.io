@@ -133,7 +133,7 @@
     },
     {
       "name": "Jad Antoun",
-      "role": "Master's Thesis Student",
+      "role": "Master's Thesis",
       "category": "student",
       "photo": "images/team/jad-antoun.png",
       "bio": "Jad Antoun is a Master's student in Data Science at the Lebanese American University, holding a Bachelor's degree in Computer Science. His research interests lie in Agentic AI, Arabic Natural Language Processing (NLP), On-Device AI, and AI Safety and Alignment. He previously worked on research projects involving on-device sign language recognition and reinforcement learning. He also works as a software engineer, with experience in building backend systems and mobile applications for the fintech industry.",
@@ -144,7 +144,7 @@
     },
     {
       "name": "Elie Shakkour",
-      "role": "Master's Thesis Student",
+      "role": "Master's Thesis",
       "category": "student",
       "photo": "images/team/elie-shakkour.jpeg",
       "bio": "Elie Shakkour is a Master's student in Data Science, holding a Bachelor's degree in Computer Science with distinction. His interests lie in developing technology that addresses community needs and supports mental health. He is motivated by the potential of data science and software development to turn ideas into practical solutions that improve people's lives. As he continues his studies, he aims to deepen his research skills and contribute to projects with meaningful social impact.",
@@ -155,7 +155,7 @@
     },
     {
       "name": "Reine Nassour",
-      "role": "Master's Thesis Student",
+      "role": "Master's Thesis",
       "category": "student",
       "photo": "images/team/reine-nassour.jpg",
       "bio": "Reine Nassour is an MSc candidate in Applied Artificial Intelligence at the Lebanese American University, with research interests in medical imaging, computer vision, and explainable AI. The proposed thesis explores how thyroid ultrasound images and clinical data can be combined to support the classification of thyroid nodules as benign or malignant.",
