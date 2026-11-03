@@ -99,6 +99,69 @@
         "website": "https://lb.linkedin.com/in/elias-neemtallah-240202248",
         "email": "mailto:elias.neemtallah@lau.edu"
       }
+    },
+    {
+      "name": "Manal Amine",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/manal-amine.jpeg",
+      "bio": "Manal Amine is a Master's student in Data Science, holding a Bachelor's degree in Computer Science. Her research interests lie at the intersection of Artificial Intelligence, Machine Learning, large language models (LLMs), and Computer Vision. She is particularly interested in understanding how AI models can be developed, evaluated, and applied to real-world problems, with an emphasis on both their capabilities and limitations.",
+      "links": {
+        "email": "mailto:manal.amine@lau.edu.lb"
+      }
+    },
+    {
+      "name": "Peter Saba",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/peter-saba.png",
+      "bio": "Peter Saba is a Master's student in Data Science, holding a Bachelor's degree in Bioinformatics from the Lebanese American University. He works primarily with genomics data and has recently moved into the realm of large language models (LLMs) with Dr. Helwe. With LLMs increasingly being used for prediction tasks amid the rise of tabular in-context models, he aims to be at the forefront by applying these models to novel biological prediction tasks. He is currently assessing the performance of TabICLv2 on detecting cryptic sites in macromolecules.",
+      "links": {
+        "email": "mailto:peter.saba@lau.edu.lb"
+      }
+    },
+    {
+      "name": "George Levonian",
+      "role": "Research Assistant",
+      "category": "student",
+      "photo": "images/team/george-levonian.jpeg",
+      "bio": "George Levonian is a Master's student in Data Science, who graduated with a Bachelor's Degree in Computer Science. His research interests include topics related to Machine Learning (ML), Natural Language Processing (NLP) with niche languages and finding edge cases of an LLM's safety protocols.",
+      "links": {
+        "website": "https://www.linkedin.com/in/georges-levonian",
+        "email": "mailto:george.levonian@lau.edu.lb"
+      }
+    },
+    {
+      "name": "Jad Antoun",
+      "role": "Master's Thesis Student",
+      "category": "student",
+      "photo": "images/team/jad-antoun.png",
+      "bio": "Jad Antoun is a Master's student in Data Science at the Lebanese American University, holding a Bachelor's degree in Computer Science. His research interests lie in Agentic AI, Arabic Natural Language Processing (NLP), On-Device AI, and AI Safety and Alignment. He previously worked on research projects involving on-device sign language recognition and reinforcement learning. He also works as a software engineer, with experience in building backend systems and mobile applications for the fintech industry.",
+      "links": {
+        "website": "https://www.linkedin.com/in/jad-antoun-7a9a82243",
+        "email": "mailto:jad.antoun@lau.edu.lb"
+      }
+    },
+    {
+      "name": "Elie Shakkour",
+      "role": "Master's Thesis Student",
+      "category": "student",
+      "photo": "images/team/elie-shakkour.jpeg",
+      "bio": "Elie Shakkour is a Master's student in Data Science, holding a Bachelor's degree in Computer Science with distinction. His interests lie in developing technology that addresses community needs and supports mental health. He is motivated by the potential of data science and software development to turn ideas into practical solutions that improve people's lives. As he continues his studies, he aims to deepen his research skills and contribute to projects with meaningful social impact.",
+      "links": {
+        "website": "https://www.linkedin.com/in/elie-shakkour-1974ba255/",
+        "email": "mailto:elie.shakkour@lau.edu.lb"
+      }
+    },
+    {
+      "name": "Reine Nassour",
+      "role": "Master's Thesis Student",
+      "category": "student",
+      "photo": "images/team/reine-nassour.jpg",
+      "bio": "Reine Nassour is an MSc candidate in Applied Artificial Intelligence at the Lebanese American University, with research interests in medical imaging, computer vision, and explainable AI. The proposed thesis explores how thyroid ultrasound images and clinical data can be combined to support the classification of thyroid nodules as benign or malignant.",
+      "links": {
+        "email": "mailto:reine.nassour@lau.edu.lb"
+      }
     }
   ]
 }
