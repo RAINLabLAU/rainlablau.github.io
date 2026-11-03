@@ -20,6 +20,26 @@
         "arxiv": "https://arxiv.org/abs/2608.02555",
         "pdf": "https://arxiv.org/pdf/2608.02555"
       }
+    },
+    {
+      "year": 2026,
+      "title": "Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures",
+      "authors": [
+        "Tyler A. Chang",
+        "Catherine Arnett",
+        "…",
+        "Chadi Helwe",
+        "… (380 authors)"
+      ],
+      "highlightAuthors": [
+        "Chadi Helwe"
+      ],
+      "venue": "NeurIPS 2026, Evaluations and Datasets Track (Poster)",
+      "venueType": "conference",
+      "links": {
+        "arxiv": "https://arxiv.org/abs/2510.24081",
+        "pdf": "https://arxiv.org/pdf/2510.24081"
+      }
     }
   ]
 }
