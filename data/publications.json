@@ -1,5 +1,25 @@
 {
   "publications": [
-  
+    {
+      "year": 2026,
+      "title": "Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation",
+      "authors": [
+        "Amr Keleg",
+        "Ahmed Amine Ben Abdallah",
+        "Taha Yassine",
+        "Chadi Helwe",
+        "Imane Guellil",
+        "Nedjma Ousidhoum"
+      ],
+      "highlightAuthors": [
+        "Chadi Helwe"
+      ],
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026",
+      "venueType": "conference",
+      "links": {
+        "arxiv": "https://arxiv.org/abs/2608.02555",
+        "pdf": "https://arxiv.org/pdf/2608.02555"
+      }
+    }
   ]
 }
